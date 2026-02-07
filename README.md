@@ -5,11 +5,6 @@
 
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/1QO492iHwYONJUrUNhxuFDaFy_6ZTEc1pT-OZkcLIqBg/edit?tab=t.0)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://leetcode.com/u/braermaxim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="braeranton" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
