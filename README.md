@@ -7,44 +7,44 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<div align="left" style="white-space: nowrap;">
+  <a href="https://www.docker.com/" style="display:inline-flex;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <a href="https://git-scm.com/" style="display:inline-flex;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+  <a href="https://golang.org" style="display:inline-flex;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
   </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <a href="https://grafana.com" style="display:inline-flex;">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
   </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
+  <a href="https://kafka.apache.org/" style="display:inline-flex;">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
   </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <a href="https://kubernetes.io" style="display:inline-flex;">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <a href="https://www.linux.org/" style="display:inline-flex;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   </a>
-  <a href="https://clickhouse.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/clickhouse/clickhouse-original.svg" width="40" height="40"/>
+  <a href="https://clickhouse.com/" style="display:inline-flex;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" width="40"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <a href="https://www.postgresql.org" style="display:inline-flex;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <a href="https://www.mysql.com/" style="display:inline-flex;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <a href="https://www.nginx.com" style="display:inline-flex;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
   </a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/>
+  <a href="https://www.rabbitmq.com" style="display:inline-flex;">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
   </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+  <a href="https://redis.io" style="display:inline-flex;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
   </a>
-</p>
+</div>
